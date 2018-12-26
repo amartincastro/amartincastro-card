@@ -47,9 +47,9 @@ const bio = `\n${ data.bio }`;
 
 const card = [
 	avatar, banner,
-	hr, heading, hr, working, workingUrl,
+	hr, heading, hr, working,
 	twittering, githubing, linkedining,
-	webing, carding, bio
+	carding, bio
 ];
 
 // Put all our output together into a single variable so we can use boxen effectively
